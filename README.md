@@ -49,7 +49,7 @@ Raspberry Pi Camera (Picamera2 · 640×480)
 
 ## 실행 환경
 
-Raspberry Pi · Raspberry Pi OS · Python 3 · `opencv-python` · `mediapipe` · `picamera2` · `mariadb` · `gpiozero` · `pigpio`
+Raspberry Pi 5 · Pi Camera V2 · Raspberry Pi OS 64-bit · OpenCV 4.6.0 · MariaDB 10.11.6 · Python 3 · `opencv-python` · `mediapipe` · `picamera2` · `mariadb` · `gpiozero` · `pigpio`
 
 ```bash
 export DB_USER=... DB_PASSWORD=... DB_HOST=...
